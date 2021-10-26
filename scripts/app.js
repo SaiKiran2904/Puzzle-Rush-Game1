@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   timerDisplay.innerHTML = '1:00'
 
-
+  const testing123
 
   let score = 0
 
