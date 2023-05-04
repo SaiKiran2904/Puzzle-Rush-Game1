@@ -61,31 +61,3 @@ npm install
 npm run eslint
 ```
 
-Some rules will be auto-fixed, others will be logged so developer can fix them manually.
-
----
-
-### Where I am at now 🍬
-
-- Basic drag and drop functionality
-- Rows are being replaced when matched
-- Score keeping
-- 5+ row and column matching
-- Styled background
-- Simple animation when candy disappears
-- Github pages
-- Implement a time limit
-- Have a "Start" and Restart Button
-- Fix bug that crashes game at the bottom right candy
-
-![CandyCrushgif](currentstate.gif)
-
-### Future Features 🧁
-
-- Update background image
-- More cohesive color pallet
-
-### Art and Assets Credit
-- Halloween Theme candy [silverwavetidaldragon](https://github.com/silverwavetidaldragon) 
-
-#### This project is licensed under the terms of the [MIT license](https://choosealicense.com/licenses/mit/#).
