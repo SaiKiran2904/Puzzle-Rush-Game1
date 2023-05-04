@@ -1,8 +1,8 @@
 # Match 3 Game
-###Summary
+### Summary
 The Match Three game is a puzzle game in which the player must swap adjacent gems on a game board to create matches of three or more gems of the same color. When a match is made, the gems disappear from the board and are replaced by new gems falling from the top of the board. The player earns points and additional time for making matches, and the game ends when the timer runs out or the player reaches a certain score threshold. The game features colorful gem graphics, sound effects, and real-time communication of player scores to a server using WebSockets. The game is built using HTML, CSS, and JavaScript, and runs on a Node.js web server.
 
-###Files Summary
+### Files Summary
 A detailed summary of each file in the repository and an overview of the Match Three game:
 
 Client-side files:
@@ -35,7 +35,7 @@ socket.io.js: This is a JavaScript library that provides real-time, bidirectiona
 - Create combos by matching more than 3 candies.
 - Click the timer box to stop it from bouncing.
 
-### Play it [here]()!
+### Play it [here]( https://saikiran2904.github.io/Puzzle-Rush-Game1/)!
 
 ---
 
